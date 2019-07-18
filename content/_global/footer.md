@@ -1,9 +1,9 @@
 +++
 fragment = "footer"
-#disabled = true
+disabled = true
 date = "2016-09-07"
 weight = 1200
-#background = ""
+background = "Dark"
 
 menu_title = "Link Title"
 
